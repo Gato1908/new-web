@@ -1,0 +1,5 @@
+function ready() {
+        const cat = document.getElementById("pmm")
+        cat.HTML = "esto es algo de Javascript,esto es para que la pagina sea interativa con el usuario quien esta dentro de la pagina,como hemos visto en mucha buena y famosa paginas web utiliza Javascript,porque es el leguanje mas utilizado en el mundo"
+ }
+
